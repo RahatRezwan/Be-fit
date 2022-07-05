@@ -92,3 +92,42 @@ body{
     font-size: 18px;
     transition: 500ms;
 }
+
+/* My Recipies Section */
+#Recipies{
+    padding: 2%;
+}
+.recipi-head{
+    padding: 2% 30%;
+    text-align: center;
+}
+.all-recipi{
+    display: flex;
+    padding: 2% 10%;
+}
+.recipies{
+    width: 50%;
+    padding: 2%;
+    margin: 1% 2% 2%;
+    border-radius: 40px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+}
+.recipies img{
+    text-align: center;
+    width: 100%;
+}
+.recipies p{
+    width: auto;
+    text-align: justify;
+}
+.overviews{
+    margin: 3% 11%;
+    display: flex;
+    text-align: center;
+    border-radius: 35px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+}
+.overviews div{
+    width: 33.33%;
+    padding: 3%;  
+}
