@@ -131,3 +131,17 @@ body{
     width: 33.33%;
     padding: 3%;  
 }
+
+/* Footer Section */
+.footer{
+    padding: 2% 0 3%;
+    background-color: black;
+    color: gray;
+    text-align: center;
+}
+.footer span{
+    color: rgb(8, 111, 247);
+}
+.footer p{
+    font-size: small;
+}
